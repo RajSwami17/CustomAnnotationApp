@@ -24,8 +24,8 @@ public class CustomAnotationAppApplication implements CommandLineRunner
         studentInfo.setFirstName("Rajesh");
         studentInfo.setLastName("Swami");
         studentInfo.setDob("17-08-1997");
-        studentInfo.setPhoneNumber("9763474387");
-        studentInfo.setEmail("swamirajesh43@gmail.com");
+        studentInfo.setPhoneNumber("1234567890");
+        studentInfo.setEmail("samplemail@gmail.com");
         studentInfo.setAddress("KarveNagar Pune-411052");
 
         // Encrypted Data
